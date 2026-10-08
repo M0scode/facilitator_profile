@@ -71,8 +71,10 @@ const experience = [
 const qualifications = [
   "Bachelor of Accounting Science — University of the Witwatersrand",
   "Data Science — Explore AI Academy",
-  "AI Fluency — Edunova / Microsoft",
-  "IBM Enterprise Design Thinking Practitioner",
+  "AI Fluency — Microsoft",
+  "Enterprise Design Thinking Practitioner — IBM",
+  "GenAI Course for Software Engineers — WeThinkCode",
+  "Introduction to Cybersecurity — Cisco Networking Academy",
 ];
 
 export default function Home() {
@@ -80,7 +82,7 @@ export default function Home() {
     <main className="min-h-screen bg-[#070A13] text-[#111827]">
       {/* Navigation */}
       <nav className="mx-auto flex max-w-6xl items-center justify-between px-6 py-6">
-        <div className="animate-fade-up text-lg font-bold tracking-tight text-white">
+        <div className="text-lg font-bold tracking-tight text-white">
             SANDISO MAGWAZA{" "}
             <span className="bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent">
               BIO.
@@ -111,7 +113,7 @@ export default function Home() {
         <div className="absolute -bottom-32 left-1/3 h-72 w-72 rounded-full bg-blue-200/40 blur-3xl" />
     
         <div className="max-w-2xl">
-          <p className="animate-fade-up mb-5 text-sm font-semibold uppercase tracking-[0.25em] text-[#7C3AED]">
+          <p className="animate-fade-left mb-5 text-sm font-semibold uppercase tracking-[0.25em] text-[#7C3AED]">
             Professional Facilitator
           </p>
 
@@ -121,7 +123,7 @@ export default function Home() {
             <span className="bg-gradient-to-r from-[#2563EB] via-[#7C3AED] to-[#EC4899] bg-clip-text text-transparent">Magwaza.</span>
           </h1>
 
-          <p className="animate-fade-up mt-8 max-w-2xl text-xl leading-8 text-slate-300">
+          <p className="animate-fade-left mt-8 max-w-2xl text-xl leading-8 text-slate-300">
             Facilitator, data professional and digital skills practitioner
             passionate about helping people learn, adapt and use technology
             with confidence.
@@ -164,7 +166,7 @@ export default function Home() {
             </p>
 
             <p className="mt-1 font-bold text-slate-900">
-              Facilitation • AI • Data
+              Data • AI • Accounting • Finance
             </p>
           </div>
         </div>
