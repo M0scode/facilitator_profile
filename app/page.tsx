@@ -46,25 +46,34 @@ const expertise = [
 
 const experience = [
   {
-    role: "Facilitator",
-    organisation: "Edunova",
-    period: "2025 — Present",
+    role: "Facilitator / Public Finance Management And Administration",
+    organisation: "Pioneer Business Consulting",
+    period: "September 2026 — December 2026",
     description:
-      "Facilitating workplace readiness, AI fluency, digital skills and technology-focused learning programmes.",
+      "Facilitating NQF Level 5 training for eThekwini Municipality learners, covering Public Finance Management Act (PFMA) principles. The training develops learners' understanding and practical application of public financial management, legislative compliance, budgeting, financial reporting, internal controls, accountability, and the use of computerised systems to manage financial information and prepare reports in the public sector."
+,
+  },
+  {
+    role: "Facilitator / ITE Supervisor",
+    organisation: "Edunova SA",
+    period: "November 2025 — July 2026",
+    description:
+      "Facilitating Google DeepMind Experience AI Teacher workshops, Microsoft AI Fluency workshops, and Raspberry Pi Scratch coding workshops, equipping teachers and learners with practical AI knowledge, digital skills, computational thinking and foundational coding skills."
+,
   },
   {
     role: "Data Science Intern / Team Lead",
     organisation: "SAND Technologies",
-    period: "2024",
+    period: "September 2024 - December 2024",
     description:
-      "Applied data science, analytics and machine learning while supporting team-based technical projects.",
+      "Applied data science, data analytics and machine learning techniques while contributing to collaborative technical projects. Served as Team Lead, facilitating and hosting virtual meetings, coordinating remote team activities, monitoring progress and supporting effective communication and collaboration to achieve project objectives.",
   },
   {
     role: "Economics Teacher",
     organisation: "Tholukukhanya High School",
-    period: "2021 — 2022",
+    period: "June 2021 — November 2022",
     description:
-      "Taught Grade 12 Economics and supported learners through structured teaching, assessment and academic development.",
+      "Taught Grade 12 Economics, developing a strong foundation in facilitation, instructional delivery, learner engagement and assessment. Supported learners through structured teaching, academic guidance and performance monitoring. Achieved an 82.4% overall pass rate in 2021, improving to 87.5% in 2022. This experience laid the foundation for my facilitation career, strengthening my ability to communicate complex concepts, guide learning and support diverse groups in achieving their learning outcomes.",
   },
 ];
 
